@@ -4,9 +4,9 @@ You’re a cartographer stranded on a chain of islands. Raise and lower the tide
 
 ## Participants
 
-- Salman — 24L-0860
-- Ali Raza — 24k-0794
-- Rafay ghouri — 24k-0728
+- Muhammad Salman Kamal (24L-0860)
+- Muhammad Ali Raza (24K-0794)
+- Abdul Rafay Ghouri (24K-0728)
 
 ## Run the game
 
